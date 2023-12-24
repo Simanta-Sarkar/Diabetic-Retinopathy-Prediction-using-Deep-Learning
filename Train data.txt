@@ -1,0 +1,3 @@
+https://drive.google.com/drive/folders/1g8_OD9s-_oLI8QfgeniGbkjIET_1jPFD?usp=sharing
+
+The fundus images of diabetic retinopathy for train the model is provided in the above link.
